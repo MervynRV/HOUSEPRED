@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.preprocessing import OneHotEncoder
 
-dataset = pd.read_csv("C:\\Programs\\py\\DAA\\all_perth_310121.csv")
+dataset = pd.read_csv("C:\Programs\py\DAA\HousePricePrediction.xlsx")
 
 #printing the first 5 records of the dataset
 
